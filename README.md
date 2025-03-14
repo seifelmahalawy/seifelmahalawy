@@ -1,4 +1,4 @@
-<p align="center">
+**<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Seif;Junior+Penetration+Tester;Backend+Developer" alt="Typing SVG" /></a>
 </p>
 
@@ -38,3 +38,4 @@
 > - <kbd>[LinkedIn](https://www.linkedin.com/in/seif-hossam-387897249/)</kbd>
 
 # Thanks for reading!
+**
