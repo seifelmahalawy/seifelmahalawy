@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Seif;Junior+Penetration+Tester" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Seif;Junior+Penetration+Tester;Backend+Developer" alt="Typing SVG" /></a>
 </p>
 
 # Who am I?
@@ -21,7 +21,7 @@
 
 **IDEs (Integrated Development Environment)**
 
-[![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,intellij,clion,pycharm,vmware,notion)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,ij,clion,pycharm,vm,notion)](https://skillicons.dev)
 
 **Platforms & Interests**
 
