@@ -34,8 +34,7 @@
 
 # Connect—between you and me
 > - <kbd>[Discord](theoriginalseif)</kbd>
-> - <kbd>[Gmail](seif.hossameldein@gmail.com)</kbd>
+> - <kbd>[Gmail](<a href="mailto:seif.hossameldein@gmail.com">)</kbd>
 > - <kbd>[LinkedIn](https://www.linkedin.com/in/seif-hossam-387897249/)</kbd>
 
 # Thanks for reading!
-- If you read till the bottom, here is a little **[gift](https://youtu.be/ddIYuXHpKpA?si=DUvI32CCVcn3dr1o)** for you, and of course have a great and stellar day!
