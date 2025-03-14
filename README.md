@@ -1,4 +1,4 @@
-**<p align="center">
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Seif;Junior+Penetration+Tester;Backend+Developer" alt="Typing SVG" /></a>
 </p>
 
@@ -34,8 +34,7 @@
 
 # Connect—between you and me
 > - <kbd>[Discord](theoriginalseif)</kbd>
-> - <kbd>[Gmail](<a href="mailto:seif.hossameldein@gmail.com"></a>)</kbd>
+> - <kbd><a href="mailto:abdallhmo828@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=white" alt="Email"/></a></kbd>
 > - <kbd>[LinkedIn](https://www.linkedin.com/in/seif-hossam-387897249/)</kbd>
 
 # Thanks for reading!
-**
