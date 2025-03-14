@@ -21,11 +21,11 @@
 
 **IDEs (Integrated Development Environment)**
 
-[![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,ij,clion,pycharm,vm,notion)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,clion,pycharm,notion)](https://skillicons.dev)
 
 **Platforms & Interests**
 
-[![IDEs](https://skillicons.dev/icons?i=discord,gmail,github,ps)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=discord,gmail,github,ps,linkedin)](https://skillicons.dev)
 
 # Contributions
 <div align="center">
