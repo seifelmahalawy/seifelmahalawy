@@ -32,9 +32,15 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FoUnDeRR/FoUnDeRR/output/github-contribution-grid-snake.svg" />
 </div>
 
-# Connect—between you and me
-> - <kbd>[Discord](theoriginalseif)</kbd>
-> - <kbd><a href="mailto:abdallhmo828@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=white" alt="Email"/></a></kbd>
-> - <kbd>[LinkedIn](https://www.linkedin.com/in/seif-hossam-387897249/)</kbd>
+# Connections
+> - <kbd><a href="mailto:seif.hossameldein@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=white" alt="Email"/></a></kbd>
+> - <kbd><a href="https://www.linkedin.com/in/seif-hossam-387897249/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/></a></kbd>
+> - <kbd><a href="https://codeforces.com/profile/Seif-.-"><img src="https://img.shields.io/badge/-Codeforces-1F8ACF?logo=codeforces&logoColor=white" alt="Codeforces"/></a></kbd>
 
-# Thanks for reading!
+# Statistics
+<h1 align="center">Statistics:</h1>
+<br/>
+<p align="center">&nbsp; 
+<img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=theoriginalseif&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<br/>
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=theoriginalseif&langs_count=6&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
