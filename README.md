@@ -38,7 +38,6 @@
 > - <kbd><a href="https://codeforces.com/profile/Seif-.-"><img src="https://img.shields.io/badge/-Codeforces-1F8ACF?logo=codeforces&logoColor=white" alt="Codeforces"/></a></kbd>
 
 # Statistics
-<h1 align="center">Statistics:</h1>
 <br/>
 <p align="center">&nbsp; 
 <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=theoriginalseif&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
