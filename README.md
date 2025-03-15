@@ -1,5 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theoriginalseif&label=Profile%20views&color=0e75b6&style=flat" alt="theoriginalseif" /> </p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Seif;Junior+Penetration+Tester;Backend+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=I'm+Seif;Junior+Penetration+Tester;Backend+Developer;Always+up+to+learn+new+things" alt="Typing SVG" /></a>
 </p>
 
 # Who am I?
